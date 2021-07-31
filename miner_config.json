@@ -1,0 +1,8 @@
+{
+
+	"url" : "stratum+tcp://stratum.aikapool.com:7915",
+	"user" : "glowman434.pi4",
+	"pass" : "074277574",
+
+	"algo" : "scrypt"
+}
